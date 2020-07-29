@@ -4,7 +4,7 @@
       "name": "rice-web",
       "script": "npx",
       "interpreter": "none",
-      "args": "serve -p 8443 -T"
+      "args": "serve -s build -p 8443"
     }
   ]
 }
