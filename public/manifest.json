@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Rice Bot",
+  "name": "Discord Rice Bot",
   "icons": [
     {
       "src": "favicon.ico",
