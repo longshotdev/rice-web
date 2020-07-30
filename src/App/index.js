@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default () => {
   const fetchMyData = async () => {
-    const data = await fetch("/bonk", { method: "POST " });
+    const data = await fetch("/bonk", { method: "POST" });
     console.log(data);
   };
   return (
